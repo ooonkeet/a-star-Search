@@ -8,7 +8,7 @@
 3. You can also run it in a python virtual virtual environment (optional).
 4. Run it by writing "python astar.py" and "python astar-diag.py" respectively in terminal.
 
-**This piece of code include 2 python programs for A* search**
+**This piece of code include 2 python programs for A-star search**
 
 **1. One uses manhattan heuristic - for straight line shortest distance**
 
