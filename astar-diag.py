@@ -10,7 +10,7 @@ WIDTH = 700
 # set up a window display by dimensions width by width and set the header or caption by A* path finding algorithm
 WIN = pygame.display.set_mode((WIDTH,WIDTH))
 
-pygame.display.set_caption("A* path finding algorithm")
+pygame.display.set_caption("A* path finding algorithm - uses diagonal shortest length")
 
 # if u write till here and run this you can see a window popping up and disappearing - which means the code is correct
 
