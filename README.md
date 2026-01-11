@@ -1,4 +1,4 @@
-#**INSTRUCTIONS:**
+# **INSTRUCTIONS:**
 
 1. This runs on a command line interface.
 2. Make sure that you install the pygame package or you can do that by just pasting the command in your terminal 
@@ -11,9 +11,10 @@
 **This piece of code include 2 python programs for A* search**
 
 **1. One uses manhattan heuristic - for straight line shortest distance**
+
 **2. Another uses octile heuristic - for diagonal shortest distance**
 
-#**Rules for the game**
+# **Rules for the game**
 1. Left Click for the first time to mark starting point - it will be orange.
 2. For 2nd click it will mark the destination point - it will be turqouise.
 3. Right Click any block for the removal of the marked point.
