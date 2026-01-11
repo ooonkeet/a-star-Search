@@ -14,6 +14,15 @@
 
 **2. Another uses octile heuristic - for diagonal shortest distance**
 
+# Points to remenber:-
+    - WHITE color says that the path is unvisited 
+    - RED color says that we already visited that grid box
+    - BLACK color says that this block is a barrier, it needs to be avoided by the algorithm
+    - ORANGE means the start node
+    - TURQUOISE means the end node
+    - PURPLE is the path followed by A*
+    - GREEN checks on the Open Set - which determines the path, consider it to be a backtracked set containing the path information from starting to ending node
+
 # **Rules for the game**
 1. Left Click for the first time to mark starting point - it will be orange.
 2. For 2nd click it will mark the destination point - it will be turqouise.
