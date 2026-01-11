@@ -4,7 +4,7 @@ from queue import PriorityQueue
 pygame.init()
 pygame.font.init()
 
-WIDTH = 700
+WIDTH = 650 #you can manually change this screen size or add height as an added dimension
 
 # set up a window display by dimensions width by width and set the header or caption by A* path finding algorithm
 WIN = pygame.display.set_mode((WIDTH,WIDTH))
